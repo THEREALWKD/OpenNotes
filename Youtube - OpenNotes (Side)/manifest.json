@@ -3,7 +3,7 @@
   "name": "YouTube OpenNotes",
   "version": "1.14",
   "description": "A Open-Source Vertical Notepad for YouTube videos",
-  "permissions": ["storage", "scripting"],
+  "permissions": ["storage"],
   "content_scripts": [
     {
       "matches": ["*://www.youtube.com/*"],
