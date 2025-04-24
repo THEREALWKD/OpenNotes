@@ -1,4 +1,4 @@
-![Alt text](path/to/your-gif.gif)
+![Alt text](screenshots/opengifs.gif)
 
 
 OpenNotes - A Simple YouTube Note Taker
