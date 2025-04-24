@@ -1,7 +1,7 @@
 ![Alt text](screenshots/opengifs.gif)
 
 
-OpenNotes - A Simple YouTube Note Taker
+## OpenNotes - A Simple YouTube Note Taker
 
 An Open-Source Chrome extension that adds a simple note-taking panel to YouTube video pages, allowing users to save notes per video.
 
